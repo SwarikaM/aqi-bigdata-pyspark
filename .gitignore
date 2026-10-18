@@ -1,0 +1,14 @@
+station_hour.csv
+stations.csv
+city_day.csv
+*_parquet/
+daily_parquet/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+spark-warehouse/
+metastore_db/
+derby.log
+venv/
+.venv/
+aqi-env/
